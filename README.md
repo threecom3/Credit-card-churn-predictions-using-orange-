@@ -23,7 +23,7 @@ Evaluated and compared their performance to determine the most effective model.
 Evaluation:
 
 Metrics Used: Accuracy, precision, and recall.
-[Add results here, e.g., "Logistic Regression achieved the best results with 85% accuracy."]
+Logistic Regression achieved the best results with 89% accuracy
 Tools Used
 Orange: A powerful open-source data mining and visualization tool.
 Workflow Diagram
@@ -40,14 +40,13 @@ Test the machine learning models with your dataset.
 File Descriptions
 workflow.ows: The Orange workflow file containing the complete project steps.
 Screenshot.png: A visual representation of the Orange workflow.
-[Add any other relevant files or scripts you include.]
 Results
 Highlight the best-performing model and its results here. For example:
-Logistic Regression achieved an accuracy of 85%, making it the most effective model for this dataset.
+Logistic Regression achieved an accuracy of 89%, making it the most effective model for this dataset.
 Future Improvements
 Add additional models for comparison (e.g., Random Forest, Gradient Boosting).
 Implement hyperparameter tuning to optimize model performance.
 Apply the workflow to larger or more diverse datasets.
 About Me
-I’m [Your Name], a passionate data analyst with expertise in data analytics, machine learning, and predictive modeling. Feel free to connect with me on LinkedIn or explore more of my work on GitHub.
+I’m Seth Armoh, a passionate data analyst with expertise in data analytics, machine learning, and predictive modeling. Feel free to connect with me on LinkedIn or explore more of my work on GitHub.
 
